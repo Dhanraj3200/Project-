@@ -11,6 +11,7 @@ Automate pothole detection using computer vision
 Calculate the required asphalt volume accurately
 Minimise manual labour using sensors and automation
 Improve efficiency and consistency in road repair
+
 🛠️ Tools & Technologies
 SolidWorks – 3D modelling of components and assemblies
 Blender – Visualisation and rendering
